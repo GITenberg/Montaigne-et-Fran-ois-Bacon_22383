@@ -1,0 +1,27 @@
+_repo: Montaigne-et-Fran-ois-Bacon_22383
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Villey, Pierre
+    birthdate: 1879
+    deathdate: 1933
+    gutenberg_agent_id: '25302'
+    url: http://www.gutenberg.org/2009/agents/25302
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22383'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: Montaigne et François Bacon
+url: http://www.gutenberg.org/ebooks/22383
